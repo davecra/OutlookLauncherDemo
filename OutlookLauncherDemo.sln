@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookLauncherDemo", "OutlookLauncherDemo\OutlookLauncherDemo.csproj", "{CBCDE123-A078-4836-97C1-A24D978184BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookLauncherDemoWeb", "OutlookLauncherDemoWeb\OutlookLauncherDemoWeb.csproj", "{625DD9AA-6CB9-450A-AB5B-34D18F1C7B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCDE123-A078-4836-97C1-A24D978184BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCDE123-A078-4836-97C1-A24D978184BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCDE123-A078-4836-97C1-A24D978184BB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CBCDE123-A078-4836-97C1-A24D978184BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCDE123-A078-4836-97C1-A24D978184BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBCDE123-A078-4836-97C1-A24D978184BB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{625DD9AA-6CB9-450A-AB5B-34D18F1C7B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625DD9AA-6CB9-450A-AB5B-34D18F1C7B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625DD9AA-6CB9-450A-AB5B-34D18F1C7B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625DD9AA-6CB9-450A-AB5B-34D18F1C7B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
